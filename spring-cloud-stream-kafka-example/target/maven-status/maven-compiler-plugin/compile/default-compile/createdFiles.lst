@@ -1,0 +1,5 @@
+com\techwording\scs\ChatMessage.class
+com\techwording\scs\Consumer.class
+com\techwording\scs\Producer.class
+com\techwording\scs\Controller.class
+com\techwording\scs\SpringCloudStreamKafkaExampleApplication.class

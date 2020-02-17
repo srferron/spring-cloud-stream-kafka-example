@@ -1,4 +1,6 @@
 # Kafka with Spring Cloud Stream
+https://dzone.com/articles/kafka-with-spring-cloud-stream
+
 
 A sample project to demonstrate how to connect to Kafka using Spring Cloud Stream framework.
 
